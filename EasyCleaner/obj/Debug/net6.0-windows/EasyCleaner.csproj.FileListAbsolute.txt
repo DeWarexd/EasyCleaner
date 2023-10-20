@@ -1,0 +1,17 @@
+C:\Users\Denolaks\source\repos\EasyCleaner\EasyCleaner\bin\Debug\net6.0-windows\EasyCleaner.exe
+C:\Users\Denolaks\source\repos\EasyCleaner\EasyCleaner\bin\Debug\net6.0-windows\EasyCleaner.deps.json
+C:\Users\Denolaks\source\repos\EasyCleaner\EasyCleaner\bin\Debug\net6.0-windows\EasyCleaner.runtimeconfig.json
+C:\Users\Denolaks\source\repos\EasyCleaner\EasyCleaner\bin\Debug\net6.0-windows\EasyCleaner.dll
+C:\Users\Denolaks\source\repos\EasyCleaner\EasyCleaner\bin\Debug\net6.0-windows\EasyCleaner.pdb
+C:\Users\Denolaks\source\repos\EasyCleaner\EasyCleaner\obj\Debug\net6.0-windows\EasyCleaner.csproj.AssemblyReference.cache
+C:\Users\Denolaks\source\repos\EasyCleaner\EasyCleaner\obj\Debug\net6.0-windows\EasyCleaner.Form1.resources
+C:\Users\Denolaks\source\repos\EasyCleaner\EasyCleaner\obj\Debug\net6.0-windows\EasyCleaner.csproj.GenerateResource.cache
+C:\Users\Denolaks\source\repos\EasyCleaner\EasyCleaner\obj\Debug\net6.0-windows\EasyCleaner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denolaks\source\repos\EasyCleaner\EasyCleaner\obj\Debug\net6.0-windows\EasyCleaner.AssemblyInfoInputs.cache
+C:\Users\Denolaks\source\repos\EasyCleaner\EasyCleaner\obj\Debug\net6.0-windows\EasyCleaner.AssemblyInfo.cs
+C:\Users\Denolaks\source\repos\EasyCleaner\EasyCleaner\obj\Debug\net6.0-windows\EasyCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Denolaks\source\repos\EasyCleaner\EasyCleaner\obj\Debug\net6.0-windows\EasyCleaner.dll
+C:\Users\Denolaks\source\repos\EasyCleaner\EasyCleaner\obj\Debug\net6.0-windows\refint\EasyCleaner.dll
+C:\Users\Denolaks\source\repos\EasyCleaner\EasyCleaner\obj\Debug\net6.0-windows\EasyCleaner.pdb
+C:\Users\Denolaks\source\repos\EasyCleaner\EasyCleaner\obj\Debug\net6.0-windows\EasyCleaner.genruntimeconfig.cache
+C:\Users\Denolaks\source\repos\EasyCleaner\EasyCleaner\obj\Debug\net6.0-windows\ref\EasyCleaner.dll
